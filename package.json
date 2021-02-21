@@ -101,5 +101,8 @@
     "hooks": {
       "pre-commit": "npx lint-staged"
     }
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-code-block": "^25.0.0"
   }
 }
